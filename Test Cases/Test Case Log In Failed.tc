@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case Log In Failed</name>
+   <tag>@Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>82d4ba77-5bbd-42b9-8346-757901f3a2a9</testCaseGuid>
+</TestCaseEntity>
